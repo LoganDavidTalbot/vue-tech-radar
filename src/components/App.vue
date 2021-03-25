@@ -2,7 +2,7 @@
   <div id="app">
     <header>
       <h1 class="h1">
-        <span class="h1-small">Build Your</span>
+        <span class="h1-small">Cappgemini Microsoft ACE</span>
         <span class="h1-large">Tech Radar</span>
       </h1>
     </header>
