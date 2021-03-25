@@ -59,4 +59,9 @@ export const technologies = [
     name: 'Gulp',
     category: 'tools',
     status: 'trial'
+  },
+  {
+    name: '.NET Framework',
+    category: 'tools',
+    status: 'trial'
   }]
